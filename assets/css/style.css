@@ -6,3 +6,6 @@ a,a:hover, a:focus, a:active {
     height: 300px;
     width: 300px;
 }
+body{
+    background-color: #1E2A2E;
+}
