@@ -8,9 +8,15 @@ a,a:hover, a:focus, a:active {
 }
 body{
     color: white;
-    background-color: #7140C2;
+    background-color: #660066;
     font-family: "Raleway", sans-serif;
 }
 .imgDuit{
     height: 350px;
+}
+i{
+    color: #660066;
+}
+.morado{
+    color: #660066;
 }
