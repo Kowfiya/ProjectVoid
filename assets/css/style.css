@@ -26,6 +26,22 @@ i{
     background-color: white;
     color: black;
 }
+@media (max-width: 1366px){
+    .imgDuit{
+        height: 250px;
+    }
+    .imgChica{
+        height: 200px;
+    }
+}
+@media (max-width: 1366px){
+    .imgDuit{
+        height: 350px;
+    }
+    .imgChica{
+        height: 300px;
+    }
+}
 @media (min-width: 700px) {
     .padinto{
         padding-left: 5rem;
