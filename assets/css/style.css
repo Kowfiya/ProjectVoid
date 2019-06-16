@@ -5,6 +5,9 @@ a,a:hover, a:focus, a:active {
 .imgChica{
     height: 300px;
 }
+.imgChicaL{
+    width: 280px;
+}
 body{
     color: white;
     background-color: #660066;
