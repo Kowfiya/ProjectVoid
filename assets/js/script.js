@@ -30,5 +30,20 @@ $(function(){
             $(".pegaRed3").attr("href",red3);
             $("#modalDibujos").modal();
         }
+        if(red1 == "."){
+          $(".pegaRed1").attr("class","noInsta");
+        }else{
+          $(".noInsta").attr("class","pegaRed1");
+        }
+        if(red2 == "."){
+          $(".pegaRed2").attr("class","noFace");
+        }else{
+          $(".noFace").attr("class","pegaRed2");
+        }
+        if(red3 == "."){
+          $(".pegaRed3").attr("class","noTwit");
+        }else{
+          $(".noTwit").attr("class","pegaRed3");
+        }
     });
 });
