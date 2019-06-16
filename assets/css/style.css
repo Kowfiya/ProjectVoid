@@ -14,7 +14,7 @@ h1,h3{
     font-family: 'Lobster', cursive;
 }
 .imgDuit{
-    height: 350px;
+    height: 325px;
 }
 i{
     color: #660066;
@@ -36,7 +36,7 @@ i{
 }
 @media (max-width: 400px){
     .imgDuit{
-        height: 350px;
+        height: 325px;
     }
     .imgChica{
         height: 300px;
