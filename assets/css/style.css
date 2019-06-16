@@ -34,7 +34,7 @@ i{
         height: 200px;
     }
 }
-@media (max-width: 1366px){
+@media (max-width: 400px){
     .imgDuit{
         height: 350px;
     }
