@@ -48,14 +48,6 @@ i{
         padding-right: 5rem;
     }
 }
-@media (max-width: 1000px){
-    .imgChica{
-        height: 150px;
-    }
-    .imgDuit{
-        height: 200px;
-    }
-}
 .blanco{
     background-color: white;
 }
