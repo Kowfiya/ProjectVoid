@@ -25,15 +25,8 @@ i{
 .futer{
     background-color: white;
     color: black;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
 }
 @media (min-width: 700px) {
-    .futer{
-        position: fixed;
-    }
     .padinto{
         padding-left: 5rem;
         padding-right: 5rem;
