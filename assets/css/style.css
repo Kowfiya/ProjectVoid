@@ -4,12 +4,14 @@ a,a:hover, a:focus, a:active {
 }
 .imgChica{
     height: 300px;
-    width: 300px;
 }
 body{
     color: white;
     background-color: #660066;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Arapey', serif;
+}
+h1{
+    font-family: 'Lobster', cursive;
 }
 .imgDuit{
     height: 350px;
@@ -23,9 +25,13 @@ i{
 .futer{
     background-color: white;
     color: black;
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+@media (min-width: 700px) {
+    .futer{
+        position: fixed;
+    }
 }
