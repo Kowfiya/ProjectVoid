@@ -10,7 +10,7 @@ body{
     background-color: #660066;
     font-family: 'Arapey', serif;
 }
-h1{
+h1,h3{
     font-family: 'Lobster', cursive;
 }
 .imgDuit{
@@ -41,4 +41,7 @@ i{
 }
 .blanco{
     background-color: white;
+}
+.blancot{
+    color: white;
 }
